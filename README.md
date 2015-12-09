@@ -2,7 +2,7 @@
 [![Maven Central][maven-central-badge]][maven-central-link]
 [![Build Status][travis-ci-badge]][travis-ci-link]
 
-Naive compression and decompression `ByteString` [Akka Steams][akka-streams] `Flow`s implementation.
+Naive compression and decompression `ByteString` [Akka Streams][akka-streams] `Flow`s implementation.
 
 Uses Snappy's [framing format][snappy-framing].
 
